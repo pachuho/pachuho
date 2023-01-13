@@ -12,7 +12,6 @@
 ### 🔥 I'm Interesting
 ##### - Learning Algorithms through Coding Tests
 ##### - Media Services Using Cameras
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pachuho&show_icons=true)
-
+![Anurag's github stats]([https://github-readme-stats.vercel.app/api](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api)?username=pachuho&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpachuho%2Fhit-counter&count_bg=%239C8BC6&title_bg=%237D7584&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
