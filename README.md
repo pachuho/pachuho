@@ -10,7 +10,7 @@
 
 ## About me
 ### 🔥 I'm Interesting
-##### - Learning Algorithms through Coding Tests
+##### - Learning Algorithms
 ##### - Media Services Using Cameras
 
 ![Anurag's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pachuho&show_icons=true)
