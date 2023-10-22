@@ -1,2 +1,2 @@
 #### Open Source Projects
-- Contributor - [CHIP(ConnectedHomeIP / Matter)](https://github.com/project-chip/connectedhomeip)
+- Contributor - [project-chip / connectedhomeip](https://github.com/project-chip/connectedhomeip)
